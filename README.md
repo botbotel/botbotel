@@ -65,6 +65,14 @@ The project explores product flows such as user profiles, organizations, events,
 
 The codebase is currently private while the product evolves.
 
+### Public code sample
+
+**[Guest Portal — React / TypeScript technical exercise](https://github.com/botbotel/prueba_tecnica)**
+
+A deployed frontend exercise built with React 19, TypeScript, Chakra UI, React Router and Vite.
+
+**[Live demo](https://prueba-tecnica-rho-hazel.vercel.app)**
+
 ---
 
 ## Engineering focus
