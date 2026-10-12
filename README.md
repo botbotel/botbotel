@@ -1,5 +1,7 @@
 # Alberto Botella
 
+🇬🇧 **English** | 🇪🇸 [Español](README.es.md)
+
 **Frontend / Product Engineer** · React · TypeScript · React Native / Expo
 
 Based in Valencia, Spain.
