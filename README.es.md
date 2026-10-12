@@ -65,6 +65,14 @@ El proyecto trabaja flujos de producto como perfiles de usuario, organizaciones,
 
 El código permanece privado mientras el producto sigue evolucionando.
 
+### Muestra de código público
+
+**[Portal del Huésped — prueba técnica React / TypeScript](https://github.com/botbotel/prueba_tecnica)**
+
+Ejercicio frontend desplegado, desarrollado con React 19, TypeScript, Chakra UI, React Router y Vite.
+
+**[Ver demo](https://prueba-tecnica-rho-hazel.vercel.app)**
+
 ---
 
 ## Enfoque de ingeniería
